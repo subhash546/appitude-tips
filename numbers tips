@@ -1,0 +1,46 @@
+Important Formulas of Number System
+Formulas of Number Series
+1 + 2 + 3 + 4 + 5 + … + n = n(n + 1)/2
+(12 + 22 + 32 + ..... + n2) = n ( n + 1 ) (2n + 1) / 6
+(13 + 23 + 33 + ..... + n3) = (n(n + 1)/ 2)2
+Sum of first n odd numbers = n2
+Sum of first n even numbers = n (n + 1)
+Mathematical Formulas
+(a + b)(a - b) = (a2 - b2)
+(a + b)2 = (a2 + b2 + 2ab)
+(a - b)2 = (a2 + b2 - 2ab)
+(a + b + c)2 = a2 + b2 + c2 + 2(ab + bc + ca)
+(a3 + b3) = (a + b)(a2 - ab + b2)
+(a3 - b3) = (a - b)(a2 + ab + b2)
+(a3 + b3 + c3 - 3abc) = (a + b + c)(a2 + b2 + c2 - ab - bc - ac)
+When a + b + c = 0, then a3 + b3 + c3 = 3abc
+(a + b)n = an + (nC1)an-1b + (nC2)an-2b2 + … + (nCn-1)abn-1 + bn
+Shortcuts for number divisibility check
+A number is divisible by 2, if its unit's digit is any of 0, 2, 4, 6, 8.
+A number is divisible by 3, if the sum of its digits is divisible by 3.
+A number is divisible by 4, if the number formed by the last two digits is divisible by 4.
+A number is divisible by 5, if its unit's digit is either 0 or 5.
+A number is divisible by 6, if it is divisible by both 2 and 3.
+A number is divisible by 8, if the number formed by the last three digits of the given number is divisible by 8.
+A number is divisible by 9, if the sum of its digits is divisible by 9.
+A number is divisible by 10, if it ends with 0.
+A number is divisible by 11, if the difference of the sum of its digits at odd places and the sum of its digits at even places, is either 0 or a number divisible by 11.
+A number is divisible by 12, if it is divisible by both 4 and 3.
+A number is divisible by 14, if it is divisible by 2 as well as 7.
+Two numbers are said to be co-primes if their H.C.F. is 1. To find if a number, say y is divisible by x, find m and n such that m * n = x and m and n are co-prime numbers. If y is divisible by both m and n then it is divisible by x.
+Shortcuts for 'recurring decimal to fraction' conversion
+For recurring decimals of format '0.abababab...' (ab repeats), equivalent fraction will be "repeating group (here ab)"/"as many 9's as the number of digits in repeating group"
+For recurring decimals of format '0.abbbbb...' (b repeats), equivalent fraction will be (entire decimal group - non-repeating decimal group)/(as many 9's as the number of repeating digits in the decimal part with as many 0's as the number of non-repeating digits in the decimal part)
+Frequently Asked Questions on Number System
+Given a number x, you will be asked to find the largest n digit number divisible by x.
+You will be given with a set of numbers (n1, n2, n3...) and asked to find how many of those numbers are divisible by a specified number x.
+Given a number series, find the sum of n terms, find nth term etc.
+Find product of two numbers when their sum/difference and sum of their squares is given.
+Find the number when divisibility of its digits with certain numbers is given.
+Find the smallest n digit number divisible by x.
+Which of the given numbers are prime numbers.
+Number x when divided by y gives remainder r, what will be the remainder when x2 is divided by y.
+Given relationship between the digits of number, find the number.
+Find result of operations (additions, subtractions, multiplications, divisions etc) on given integers. These integers can be large and the question may look difficult and time consuming. But mostly the question will map onto one of the known algebraic equations given in this first tab.
+Sample Questions and Answers on Number System
+Last but not the least, practice as many question as you can to gain better understanding of these formulas of number system and to improve your speed in solving them. Here is a sample set of solved quantitative aptitude questions based on number system. Take the test and strengthen your understanding.
